@@ -12,6 +12,7 @@ public class App {
         // System.out.println("number 2 = " + number2);
         // System.out.println("number 3 = " + number3);
         // System.out.println("Average is = " + average)
+        
         Number number1 = new Number(10);
         Number number2 = new Number(20);
         Number number3 = new Number(45);
